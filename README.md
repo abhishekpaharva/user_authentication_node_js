@@ -1,7 +1,7 @@
 # user_authentication_node_js
 > user authentication using node js
 
-# commands to use
+# How to use
 > Clone or Download repository to local directory
 > ```
 > git clone https://github.com/abhishekpaharva/user_authentication_node_js.git
